@@ -1,0 +1,45 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial;
+	background: url(sign_up1.jpg) repeat-y;
+	background-position: center;
+	background-size: cover;
+}
+.Sign_up_form{
+	width: 300px;
+	box-shadow: 0 0 3px 0 red;
+	padding: 20px;
+	margin: 8% auto 0;
+	text-align: center;
+}
+.Sign_up_form h1{
+	color: #800000;
+	margin-bottom: 30px;
+
+}
+.input_box{
+	outline: none;
+	font-size: 20px;
+	padding:10px;
+	margin:10px 0;
+	border-radius: 20px;
+	border-bottom: 1px solid green;
+}
+.btn{
+	outline: none;
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px 0;
+	border-radius: 20px;
+	border: 1px solid green;
+	cursor: pointer;
+	background-color:green;
+}
+img{
+	width: 70px;
+	margin-top: -50px;
+}
+.check{
+	color: #FF0000
+}
